@@ -1,2 +1,5 @@
-# curso-java-basico
-Seguindo os passos da professora Loiane através do: https://loiane.training/continuar-curso/java-basico
+# Olá!!!
+Estou me apegando ao Java aos poucos. 
+Aprecio a linguagem, mesmo que muitas pessoas não goste de sua complexidade.
+Compartilho esse avanço, pois acredito que futuramente olharei para esse repositório e ficarei satisfeita com os resultados.
+
