@@ -1,0 +1,28 @@
+Para compilar pelo cmd: 
+
+1. Colocar o caminho para a pasta onde está o arquivo: 
+	cd C:\Users\mg835\OneDrive\Imagens\Documentos\curso-java-basico\aula05
+
+2. Compilar para gerar o ".class":
+	javac HelloWorld.java
+	
+3. Executar:
+	java (NOME DO ARQUIVO) <- não precisa do .class
+	
+	
+class HelloWorld{
+	
+	public static void main(String[] args){
+		System.out.println("Hello World!");
+	}
+}
+	
+	Declaração da Classe - class
+	Nome da classe - HelloWorld
+	Método -  Todo o public static void main...
+		- Modificadores de acesso: public static
+		- Tipo de retorno do método: void
+		- Nome do método: main
+		- Parâmetros/Argumentos do método: (String[] args)
+		- Nosso código: exemplo -> System.out.println("Hello World!");
+		- Blocos estão entre {} (chaves)
